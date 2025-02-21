@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ozancan Direk</h1>
 <h3 align="center">I am studying Management Information Systems (MIS) at Işık University</h3>
 
-- 📫 How to reach me **ozan_direk@hotmail.com**
+- 💻 I’m currently working on **C#**  
+- 📚 I’m currently learning **Python and Java**  
+- 📫 How to reach me **ozan_direk@hotmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
