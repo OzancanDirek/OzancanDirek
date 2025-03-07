@@ -5,6 +5,11 @@
 - 📚 I’m currently learning **Python and Java**  
 - 📫 How to reach me **ozan_direk@hotmail.com**  
 
+<!-- Visitor Badge -->
+<p align="center">
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=OzancanDirek)
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ozancandirek-b12177266/" target="_blank">
