@@ -2,7 +2,7 @@
 <h3 align="center">I am studying Management Information Systems (MIS) at Işık University</h3>
 
 - 💻 I’m currently working on **C#**  
-- 📚 I’m currently learning **Python and Java**  
+- 📚 I’m currently learning **SQL and .Net**  
 - 📫 How to reach me **ozan_direk@hotmail.com**  
 
 <h3 align="left">Connect with me:</h3>
