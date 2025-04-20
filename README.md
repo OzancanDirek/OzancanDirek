@@ -34,3 +34,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical" alt="OzancanDirek's Most Used Languages" />
   </a>
 </p>
+
+<h3 align="left">Visitors:</h3>
+<p align="left">
+  <img src="https://camo.githubusercontent.com/7dce9caa6ee09ec93f6c516d3cee934da1384e6199de3603ff506c67383bc463/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d747574616c6d65686d6574616b6966266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Visitor Count" />
+</p>
