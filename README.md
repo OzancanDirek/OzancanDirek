@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozancan Direk</h1>
 <h3 align="center">I am studying Management Information Systems (MIS) at Işık University</h3>
 
-- 💻 I’m currently working on **C#**  
+- 💻 I’m currently working on **C# and Java**  
 - 📚 I’m currently learning **SQL and .Net**  
 - 📫 How to reach me **ozan_direk@hotmail.com**  
 
