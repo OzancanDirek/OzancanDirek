@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ozancan Direk</h1>
 <h3 align="center">I am studying Management Information Systems (MIS) at Işık University</h3>
 
+- 📚 Learning **.Net, Java , MicroServices, and Advanced Database Design**  
+- 🚀 Interested in **Backend Development, Full-Stack Projects, and Cloud Technologies**  
+- 📫 Reach me at **ozan_direk@hotmail.com**  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ozancandirek-b12177266/" target="_blank">
