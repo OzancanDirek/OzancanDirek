@@ -54,13 +54,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 Most Used Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical" alt="OzancanDirek's GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical" alt="OzancanDirek's Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical" alt="OzancanDirek's Most Used Languages" />
+  </a>
 </p>
 
 <h3 align="left">Visitors:</h3>
