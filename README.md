@@ -3,7 +3,7 @@
 
 - 📚 Learning **.Net, Java , MicroServices, and Advanced Database Design**  
 - 🚀 Interested in **Backend Development, Full-Stack Projects, and Cloud Technologies**  
-- 📫 Reach me at **ozan_direk@hotmail.com**  
+- 📫 Reach me at **ozandirek820@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
