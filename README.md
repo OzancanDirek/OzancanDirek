@@ -81,21 +81,19 @@ My current learning journey is focused on mastering the technologies required to
 * 🔹 **Communication:** gRPC and RESTful API Best Practices
 
 ---
-
 ## 📈 GitHub Activity
 
 <div align="center">
     <a href="https://github.com/OzancanDirek">
-        <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=20" alt="GitHub Stats" height="180" style="margin-right: 10px;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/OzancanDirek">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
     </a>
-    <div style="margin-top: 15px;">
-        <a href="https://github.com/OzancanDirek">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" />
-        </a>
-    </div>
+    <br/>
+    <a href="https://github.com/OzancanDirek">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
     <a href="https://github.com/OzancanDirek">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
     </a>
@@ -106,9 +104,7 @@ My current learning journey is focused on mastering the technologies required to
 ## 🏆 Achievements
 
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
