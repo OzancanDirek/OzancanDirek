@@ -82,8 +82,6 @@ My current learning journey is focused on mastering the technologies required to
 
 ---
 
-## 📈 GitHub Activity
-
 <div align="center">
     <a href="https://github.com/OzancanDirek">
         <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=20" alt="GitHub Stats" height="180" style="margin-right: 10px;"/>
