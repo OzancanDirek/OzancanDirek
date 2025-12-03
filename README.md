@@ -1,18 +1,3 @@
-Elbette, anlıyorum. Daha önceki görsellerin çalışmama sorunu nedeniyle, size yeni ve daha sade bir tasarım ile API bağımlılığını en aza indiren bir kod veriyorum.
-
-Bu kod, önceki estetiği korur, ancak:
-
-API'lerin çalışmaması durumunda kötü görünmemesi için GitHub Stats görsellerini sade metin ve badge'lerle değiştirir.
-
-Yalnızca yüksek ihtimalle çalışan (Typing SVG, Developer Quote, Profile Views) popüler görselleri kullanır.
-
-Hala çalışan Contribution Graph'ı korur.
-
-Bu kodun, anasayfanızda sorunsuz çalışması beklenir.
-
-✨ Tamamen Çalışan Repository Anasayfası Kodu (README.md)
-Markdown
-
 # 💻 Ozancan Direk | Full Stack Developer
 
 <div align="center">
