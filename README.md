@@ -40,11 +40,14 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OzancanDirek&theme=vue" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OzancanDirek&theme=vue" height="180em" />
+<a href="https://github.com/OzancanDirek">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
+</a>
+<a href="https://github.com/OzancanDirek">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
+</a>
 
 </div>
-
 ---
 
 ## 🏆 Milestones & Goals (Achievements)
