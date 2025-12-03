@@ -1,5 +1,3 @@
-# 💻 Ozancan Direk | Full Stack Developer
-
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;.NET+|+Java+|+React)](https://git.io/typing-svg)</div>
