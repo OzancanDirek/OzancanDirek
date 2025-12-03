@@ -36,27 +36,23 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Activity
+## 📈 Development Activity
 
 <div align="center">
 
+**Recent Contributions & Metrics**
+- 🔭 **Currently working on:** .NET & React projects
+- 🌱 **Learning:** Microservices architecture
+- 📫 **How to reach me:** ozandirek820@gmail.com
+- ⚡ **Fun fact:** Passionate about clean code and efficient systems
+
 <table>
   <tr>
-    <td align="center" width="150">
-      <strong>Repositories</strong><br>
-      <span style="font-size: 24px; color: #8A2BE2;">15+</span>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&count_private=true&show_icons=true&theme=dark" />
     </td>
-    <td align="center" width="150">
-      <strong>Commits</strong><br>
-      <span style="font-size: 24px; color: #8A2BE2;">500+</span>
-    </td>
-    <td align="center" width="150">
-      <strong>Stars</strong><br>
-      <span style="font-size: 24px; color: #8A2BE2;">25+</span>
-    </td>
-    <td align="center" width="150">
-      <strong>Languages</strong><br>
-      <span style="font-size: 24px; color: #8A2BE2;">6+</span>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
