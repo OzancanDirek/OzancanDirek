@@ -1,71 +1,122 @@
-<h1 align="center">Hi 👋, I'm Ozancan Direk</h1>
-<h3 align="center">I am studying Management Information Systems (MIS) at Işık University</h3>
+# 👋 Merhaba, Ben Ozancan Direk
 
-- 📚 Learning **.Net, Java , MicroServices, and Advanced Database Design**  
-- 🚀 Interested in **Backend Development, Full-Stack Projects, and Cloud Technologies**  
-- 📫 Reach me at **ozandirek820@gmail.com**  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Backend+Developer;MIS+Student+%40+I%C5%9F%C4%B1k+University;Microservices+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ozancandirek-b12177266/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozancandirek-b12177266" height="30" width="40" />
-  </a>
-  <a href="https://github.com/OzancanDirek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <!-- .NET Core -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="aspnetcore" width="40" height="40"/> 
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> 
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <!-- MSSQL -->
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
-  </a>
-  <!-- Redis -->
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>
-</p>
-<h3 align="left">📊 Most Used Languages:</h3>
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical" alt="OzancanDirek's Most Used Languages" />
-  </a>
-</p>
+---
 
-<h3 align="left">Visitors:</h3>
-<p align="left">
-  <img src="https://camo.githubusercontent.com/7dce9caa6ee09ec93f6c516d3cee934da1384e6199de3603ff506c67383bc463/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d747574616c6d65686d6574616b6966266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Visitor Count" />
-</p>
+## 🎓 Hakkımda
+
+🎯 **Işık Üniversitesi** Yönetim Bilişim Sistemleri (MIS) öğrencisiyim  
+💻 Backend geliştirme ve mikroservis mimarilerine tutkulu bir geliştiriciyim  
+🚀 **.NET Core, Java Spring Boot** ve **Cloud Technologies** üzerinde yoğunlaşıyorum  
+📚 Sürekli öğrenen, teknoloji meraklısı biriyim
+
+---
+
+## 🛠️ Teknoloji Yığınım
+
+### 💼 Backend & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
+
+</div>
+
+---
+
+## 🎯 Şu Anda Öğreniyorum
+```csharp
+var currentFocus = new[] {
+    "🔹 Microservices Architecture",
+    "🔹 Advanced Database Design & Optimization",
+    "🔹 .NET 8 & Entity Framework Core",
+    "🔹 Java Spring Boot & Spring Cloud",
+    "🔹 Docker & Kubernetes",
+    "🔹 REST API & gRPC",
+    "🔹 Redis & Caching Strategies"
+};
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📫 Bana Ulaşın
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozancandirek-b12177266/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OzancanDirek)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozandirek820@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Profile Views
+![](https://komarev.com/ghpvc/?username=OzancanDirek&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+⭐️ From [OzancanDirek](https://github.com/OzancanDirek)
+
+</div>
