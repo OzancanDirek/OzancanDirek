@@ -36,17 +36,13 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📈 GitHub Activity (Minimalist View)
+## 📊 GitHub Analytics
 
 <div align="center">
-    
-[![Commits](https://img.shields.io/badge/Commits-Check%20Repos-blue.svg)](https://github.com/OzancanDirek)
-[![Languages](https://img.shields.io/badge/Top%20Langs-Analyze%20Code-critical.svg)](https://github.com/OzancanDirek)
-[![Streak](https://img.shields.io/badge/Streak-Keep%20Coding-success.svg)](https://github.com/OzancanDirek)
-    <br>
-    <a href="https://github.com/OzancanDirek">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-    </a>
+  
+| <a href="https://github.com/OzancanDirek"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=dark&hide_border=true" alt="Ozancan's stats" /></a> | <a href="https://github.com/OzancanDirek"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </div>
 
 ---
