@@ -1,23 +1,23 @@
-# 👋 Merhaba, Ben Ozancan Direk
+# 👋 Hi, I'm Ozancan Direk
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Backend+Developer;MIS+Student+%40+I%C5%9F%C4%B1k+University;Microservices+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Backend+Developer;MIS+Student+@+Isik+University;Microservices+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎓 Hakkımda
+## 🎓 About Me
 
-🎯 **Işık Üniversitesi** Yönetim Bilişim Sistemleri (MIS) öğrencisiyim  
-💻 Backend geliştirme ve mikroservis mimarilerine tutkulu bir geliştiriciyim  
-🚀 **.NET Core, Java Spring Boot** ve **Cloud Technologies** üzerinde yoğunlaşıyorum  
-📚 Sürekli öğrenen, teknoloji meraklısı biriyim
+🎯 **Management Information Systems (MIS)** student at Işık University  
+💻 Passionate about **Backend Development** and **Microservices Architecture**  
+🚀 Focusing on **.NET Core, Java Spring Boot** and **Cloud Technologies**  
+📚 Continuous learner and technology enthusiast
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
 ### 💼 Backend & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -41,30 +41,24 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" width="600"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🎯 Şu Anda Öğreniyorum
+## 🎯 Currently Learning
 ```csharp
 var currentFocus = new[] {
     "🔹 Microservices Architecture",
@@ -89,7 +83,7 @@ var currentFocus = new[] {
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Connect with Me
 
 <div align="center">
 
