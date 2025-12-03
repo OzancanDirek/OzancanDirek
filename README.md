@@ -36,7 +36,7 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
