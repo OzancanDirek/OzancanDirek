@@ -36,12 +36,28 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/OzancanDirek/github-stats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/OzancanDirek/github-stats/master/generated/languages.svg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github" alt="Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github" alt="Followers" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/repo-size/OzancanDirek/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Repo Size" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/last-commit/OzancanDirek/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Last Commit" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
