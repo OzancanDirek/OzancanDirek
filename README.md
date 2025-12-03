@@ -82,12 +82,12 @@ My current learning journey is focused on mastering the technologies required to
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity (Minimalist View)
 
 <div align="center">
     
-[![Commits](https://img.shields.io/badge/Commits-Analyze%20Codebase-blue.svg)](https://github.com/OzancanDirek)
-[![Languages](https://img.shields.io/badge/Top%20Langs-Check%20Repos-critical.svg)](https://github.com/OzancanDirek)
+[![Commits](https://img.shields.io/badge/Commits-Check%20Repos-blue.svg)](https://github.com/OzancanDirek)
+[![Languages](https://img.shields.io/badge/Top%20Langs-Analyze%20Code-critical.svg)](https://github.com/OzancanDirek)
 [![Streak](https://img.shields.io/badge/Streak-Keep%20Coding-success.svg)](https://github.com/OzancanDirek)
     <br>
     <a href="https://github.com/OzancanDirek">
@@ -97,11 +97,15 @@ My current learning journey is focused on mastering the technologies required to
 
 ---
 
-## 🏆 Achievements
+## 🏆 Milestones & Goals (Achievements)
 
-<div align="center">
-    <p>🚀 Check out my <a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophies</a>!</p>
-</div>
+My current goals are focused on structured learning and project delivery:
+
+* ✅ Complete the **.NET Core Microservices** project structure.
+* ⏳ Start a new project using **Spring Boot & Spring Cloud**.
+* 🚀 Gain hands-on experience with **Kubernetes** deployment.
+* 📘 Obtain a **cloud certification** (e.g., Azure or AWS Fundamentals).
+* 🎯 Achieve the highest possible **GitHub contribution streak** this year.
 
 ---
 
