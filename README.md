@@ -93,7 +93,7 @@ My current learning journey is focused on mastering the technologies required to
     </a>
     <div style="margin-top: 15px;">
         <a href="https://github.com/OzancanDirek">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" style="margin-bottom: 10px;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" />
         </a>
     </div>
     <a href="https://github.com/OzancanDirek">
