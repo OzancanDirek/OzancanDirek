@@ -2,17 +2,17 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=MIS+Student+@+Isik+University;+Full+Stack+Developer;Always+Seeking+New+Challenges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=MIS+Student+@+Isik+University;+Aspiring+Full+Stack+Developer;Building+Scalable+Microservices)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Overview & Background
+## 🚀 Vision & Overview
 
-Hello! I'm **Ozancan Direk**, a Management Information Systems (MIS) student at Isik University and a passionate learner focused on **Full Stack Development**. I am dedicated to understanding and building robust, scalable Back-end systems and connecting them with intuitive Front-end interfaces.
+I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik University with a strong passion for developing full-stack applications. I aim to bridge the gap between business needs and robust technical implementation, focusing on building **scalable, maintainable, and efficient** distributed systems.
 
-* 🎯 **Primary Interests:** Microservices Architecture, API Development, and Cloud Technologies.
+* 🎯 **Focus Areas:** Back-end architecture, Microservices, API Design, and cloud-native solutions.
 * 📚 **Education:** Management Information Systems (MIS) at Isik University.
 * 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
@@ -72,40 +72,65 @@ Hello! I'm **Ozancan Direk**, a Management Information Systems (MIS) student at 
 
 ## 🎯 Current Learning Path
 
-My current learning journey is focused on building modern, distributed, and high-performance systems.
+My current learning journey is focused on mastering the technologies required to build **modern, distributed, and high-performance systems**.
 
+* 🔹 **Architecture:** Microservices & Design Patterns
+* 🔹 **Backend Deep Dive:** .NET 8, EF Core, Java Spring Boot & Spring Cloud
+* 🔹 **Performance:** Advanced Database Optimization (Query Tuning) and Redis Caching Strategies
+* 🔹 **Operations:** Docker and Kubernetes (Container Orchestration)
+* 🔹 **Communication:** gRPC and RESTful API Best Practices
 
-// Current Focus & Goals
-//------------------------
-Microservices Architecture & Design Patterns
-Advanced Database Optimization (Query Tuning)
-.NET 8, Entity Framework Core, and ASP.NET Core
-Java Spring Boot & Spring Cloud Concepts
-Docker & Kubernetes (Container Orchestration)
-gRPC and RESTful API Best Practices
-Redis Implementation and Caching Strategies
-📈 GitHub Activity
-<div align="center"> <a href="https://github.com/OzancanDirek"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOzancanDirek%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26line_height%3D20" alt="GitHub Stats" height="180" style="margin-right: 10px;"/> </a> <a href="https://github.com/OzancanDirek"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/> </a> <div style="margin-top: 15px;"> <a href="https://github.com/OzancanDirek"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" style="margin-bottom: 10px;" /> </a> </div> <a href="https://github.com/OzancanDirek"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" /> </a> </div>
+---
 
-🏆 Achievements
+## 📈 GitHub Activity
+
 <div align="center">
+    <a href="https://github.com/OzancanDirek">
+        <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=20" alt="GitHub Stats" height="180" style="margin-right: 10px;"/>
+    </a>
+    <a href="https://github.com/OzancanDirek">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+    </a>
+    <div style="margin-top: 15px;">
+        <a href="https://github.com/OzancanDirek">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" style="margin-bottom: 10px;" />
+        </a>
+    </div>
+    <a href="https://github.com/OzancanDirek">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+    </a>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<div align="center">
+---
 
-💭 Developer Quote
+<div align="center">
+    
+### 💭 Developer Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
-📈 Profile Views
+### 📈 Profile Views
 <img src="https://komarev.com/ghpvc/?username=OzancanDirek&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
+---
+
 <div align="center">
+    
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-"Code is like humor. When you have to explain it, it's bad." – Cory House
+<br>
 
-Connect with me or check out my work!
+_Connect with me or check out my work!_
 
 </div>
