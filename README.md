@@ -106,9 +106,9 @@ My current learning journey is focused on mastering the technologies required to
 ## 🏆 Achievements
 
 <div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+    </a>
 </div>
 
 ---
