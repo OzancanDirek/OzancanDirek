@@ -36,26 +36,12 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📈 Development Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Recent Contributions & Metrics**
-- 🔭 **Currently working on:** .NET & React projects
-- 🌱 **Learning:** Microservices architecture
-- 📫 **How to reach me:** ozandirek820@gmail.com
-- ⚡ **Fun fact:** Passionate about clean code and efficient systems
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&count_private=true&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+![Stats](https://raw.githubusercontent.com/OzancanDirek/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/OzancanDirek/github-stats/master/generated/languages.svg)
 
 </div>
 
