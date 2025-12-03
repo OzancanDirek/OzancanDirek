@@ -1,4 +1,4 @@
-# 👋 Hello, I am Ozancan Direk
+# 👋 Merhaba, Ben Ozancan Direk
 
 <div align="center">
 
@@ -8,11 +8,11 @@
 
 ---
 
-## 🎓 About Me
+## 🎓 Hakkımda
 - 🎯 **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim.  
 - 💻 **Backend Development** ve **Microservices Architecture** alanlarına ilgi duyuyorum.  
 - 🚀 **.NET Core**, **Java Spring Boot** ve **Bulut Teknolojileri** üzerine projeler geliştiriyorum.  
-- 📚 Sürekli öğrenme odaklı bir geliştirme yaklaşımım var.
+- 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
 
 ---
 
@@ -44,13 +44,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" style="margin-top: 10px;" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" style="margin-top: 10px;" />
 
 </div>
 
@@ -69,21 +65,32 @@ var currentFocus = new[] {
 };
 ```
 
-🏆 GitHub Kupaları
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OzancanDirek&theme=radical&no-frame=true&no-bg=true&row=1&column=6" /> </div>
+---
 
-📫 Bana Ulaşın
-<div align="center"></div>
-
-💭 Rastgele Geliştirici Sözü
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
-
-📈 Profil Görüntülemeleri
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=OzancanDirek&color=blueviolet&style=for-the-badge" /> </div>
+## 📫 Bana Ulaşın
 
 <div align="center">
 
-“code is like humor. when you have to explain it it’s bad.” – Cory House  
-⭐️ OzancanDirek'ten Sevgilerle
+📧 **Mail:** ozandirek820@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ozancandirek-b12177266/
+
+</div>
+
+---
+
+💭 Rastgele Geliştirici Sözü
+<div align="center"> 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
+</div>
+
+📈 Profil Görüntülemeleri
+<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=OzancanDirek&color=blueviolet&style=for-the-badge" /> 
+</div>
+
+<div align="center">
+
+“Kod, mizah gibidir. Açıklamak zorunda kalıyorsanız, kötüdür.” – Cory House  
+⭐️ **OzancanDirek'ten Sevgilerle**
 
 </div>
