@@ -36,25 +36,27 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Activity
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Stars" />
+    <td align="center" width="150">
+      <strong>Repositories</strong><br>
+      <span style="font-size: 24px; color: #8A2BE2;">15+</span>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Followers" />
+    <td align="center" width="150">
+      <strong>Commits</strong><br>
+      <span style="font-size: 24px; color: #8A2BE2;">500+</span>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/commit-activity/m/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Monthly Commits" />
+    <td align="center" width="150">
+      <strong>Stars</strong><br>
+      <span style="font-size: 24px; color: #8A2BE2;">25+</span>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/last-commit/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Last Commit" />
+    <td align="center" width="150">
+      <strong>Languages</strong><br>
+      <span style="font-size: 24px; color: #8A2BE2;">6+</span>
     </td>
   </tr>
 </table>
