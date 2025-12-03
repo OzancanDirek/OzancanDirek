@@ -15,27 +15,26 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,js,ts,html,css,mysql,redis,docker,git,github,vscode" />
-</div>
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-<div align="center">
-  <sub>Languages & Tools: C# • .NET • Java • Spring • React • JavaScript • TypeScript • HTML • CSS • MySQL • Redis • Docker • Git • GitHub • VS Code</sub>
-</div>
-
-## 🎯 Current Learning Path
-
-My current learning journey is focused on mastering the technologies required to build **modern, distributed, and high-performance systems**.
-
-* 🔹 **Architecture:** Microservices & Design Patterns
-* 🔹 **Backend Deep Dive:** .NET 8, EF Core, Java Spring Boot & Spring Cloud
-* 🔹 **Performance:** Advanced Database Optimization (Query Tuning) and Redis Caching Strategies
-* 🔹 **Operations:** Docker and Kubernetes (Container Orchestration)
-* 🔹 **Communication:** gRPC and RESTful API Best Practices
-
----
+### **Databases & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ## 📈 GitHub Activity (Minimalist View)
 
