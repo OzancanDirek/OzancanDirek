@@ -36,19 +36,30 @@ I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik U
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<a href="https://github.com/OzancanDirek">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
-</a>
-<a href="https://github.com/OzancanDirek">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Followers" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/commit-activity/m/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Monthly Commits" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/last-commit/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Last Commit" />
+    </td>
+  </tr>
+</table>
 
 </div>
----
 
 ## 🏆 Milestones & Goals (Achievements)
 
