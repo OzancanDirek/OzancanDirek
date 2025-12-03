@@ -1,25 +1,24 @@
-# 💻 Ozancan Direk | Full Stack & Microservices Developer
+# 💻 Ozancan Direk | MIS Student & Aspiring Full Stack Developer
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;MIS+Student+@+Isik+University;Backend+%26+Microservices+Expert;Building+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=MIS+Student+@+Isik+University;Aspiring+Full+Stack+Developer;Microservices+Enthusiast;Always+Seeking+New+Challenges)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Genel Bakış (About Me)
+## 🚀 Overview & Background
 
-Ben **Ozancan Direk**, Işık Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğrencisi ve tutkulu bir **Full Stack Geliştiriciyim**. 
-Odağım, güçlü ve ölçeklenebilir Back-end çözümleri geliştirmek ve bunu modern Front-end arayüzleriyle birleştirmektir.
+Hello! I'm **Ozancan Direk**, a Management Information Systems (MIS) student at Isik University and a passionate learner focused on **Full Stack Development**. I am dedicated to understanding and building robust, scalable Back-end systems and connecting them with intuitive Front-end interfaces.
 
-* 🎯 **Uzmanlık Alanım:** Microservices Mimarisi, API Geliştirme ve Bulut Teknolojileri.
-* 📚 **Eğitim:** Yönetim Bilişim Sistemleri, Işık Üniversitesi.
-* 📫 **İletişim:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
+* 🎯 **Primary Interests:** Microservices Architecture, API Development, and Cloud Technologies.
+* 📚 **Education:** Management Information Systems (MIS) at Isik University.
+* 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
 ---
 
-## 🛠️ Teknik Yığın (My Stack)
+## 🛠️ My Current Tech Stack
 
 ### ⚙️ Back-end & Core
 <table>
@@ -51,7 +50,7 @@ Odağım, güçlü ve ölçeklenebilir Back-end çözümleri geliştirmek ve bun
   </tr>
 </table>
 
-### 🗄️ Veritabanı & Altyapı
+### 🗄️ Database & Infrastructure
 <table>
   <tr>
     <td align="center" width="120">
@@ -71,41 +70,42 @@ Odağım, güçlü ve ölçeklenebilir Back-end çözümleri geliştirmek ve bun
 
 ---
 
-## 🎯 Güncel Odak Noktam (Currently Learning)
+## 🎯 Current Learning Path
 
-Mevcut öğrenme yolum, modern ve dağıtık sistemler oluşturmaya odaklanmıştır.
+My current learning journey is focused on building modern, distributed, and high-performance systems.
 
-// Learnings & Focus
-//------------------
-Microservices Architecture
-Advanced Database Design & Optimization (Query Tuning)
-.NET 8 & Entity Framework Core
-Java Spring Boot & Spring Cloud
+
+// Current Focus & Goals
+//------------------------
+Microservices Architecture & Design Patterns
+Advanced Database Optimization (Query Tuning)
+.NET 8, Entity Framework Core, and ASP.NET Core
+Java Spring Boot & Spring Cloud Concepts
 Docker & Kubernetes (Container Orchestration)
-gRPC ve RESTful API Tasarımı
-Redis & Caching Stratejileri
-📈 GitHub Etkinliklerim
+gRPC and RESTful API Best Practices
+Redis Implementation and Caching Strategies
+📈 GitHub Activity
 <div align="center"> <a href="https://github.com/OzancanDirek"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOzancanDirek%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26line_height%3D20" alt="GitHub Stats" height="180" style="margin-right: 10px;"/> </a> <a href="https://github.com/OzancanDirek"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/> </a> <div style="margin-top: 15px;"> <a href="https://github.com/OzancanDirek"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&theme=radical&hide_border=true" alt="GitHub Streak" style="margin-bottom: 10px;" /> </a> </div> <a href="https://github.com/OzancanDirek"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=OzancanDirek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" /> </a> </div>
 
-🏆 Başarılar
+🏆 Achievements
 <div align="center">
 
 </div>
 
 <div align="center">
 
-💭 Geliştirici Sözü
+💭 Developer Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
-📈 Profil Görüntülemeleri
+📈 Profile Views
 <img src="https://komarev.com/ghpvc/?username=OzancanDirek&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <div align="center">
 
-"Kod, mizah gibidir. Açıklamak zorunda kalıyorsanız, kötüdür." – Cory House
+"Code is like humor. When you have to explain it, it's bad." – Cory House
 
-Bu sayfayı OzancanDirek hazırlamıştır.
+Connect with me or check out my work!
 
 </div>
