@@ -1,8 +1,8 @@
-# 💻 Ozancan Direk | MIS Student & Aspiring Full Stack Developer
+# 💻 Ozancan Direk | Full Stack Developer
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=MIS+Student+@+Isik+University;Aspiring+Full+Stack+Developer;Microservices+Enthusiast;Always+Seeking+New+Challenges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=MIS+Student+@+Isik+University;+Full+Stack+Developer;Always+Seeking+New+Challenges)](https://git.io/typing-svg)
 
 </div>
 
