@@ -2,8 +2,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;.NET+|+Java+|+React)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;.NET+|+Java+|+React)](https://git.io/typing-svg)</div>
 
 ---
 
