@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&lines=Full+Stack+Developer;.NET+|+Java+|+React)](https://git.io/typing-svg)
 
 </div>
----
+
 
 ## 🚀 Vision & Overview
 
