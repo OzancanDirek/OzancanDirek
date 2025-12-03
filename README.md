@@ -1,96 +1,49 @@
-# 👋 Merhaba, Ben Ozancan Direk
+# 💼 Ozancan Direk — Full Stack Developer
+Merhaba! Ben Ozancan. Modern web teknolojileriyle ölçeklenebilir uygulamalar geliştirmeyi seven bir Full-Stack Developer’ım.  
+Backend’de C# / .NET, frontend’de React & Fluent UI ile çalışıyor; gerektiğinde mimari tasarımlar, veri modelleri ve API entegrasyonları geliştiriyorum.
 
-<div align="center">
+## 🚀 Teknoloji Yığını (Tech Stack)
+### Backend
+- C#, .NET 8
+- ASP.NET Core MVC & Web API
+- Entity Framework Core
+- MSSQL
+- REST API Geliştirme
+- Katmanlı Mimari, Repository Pattern
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Backend+Developer;MIS+Student+@+Isik+University;Microservices+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+### Frontend
+- React
+- JavaScript / TypeScript
+- Fluent UI • PrimeReact
+- Modern Form & Dashboard Tasarımları
 
-</div>
+### DevOps & Tools
+- Git & GitHub
+- Postman
+- Docker (Başlangıç düzeyi)
+- Visual Studio • VS Code
 
----
+## 🎯 Şu Anda Odaklandıklarım
+- .NET 8 ile gelişmiş API yapıları
+- React + Fluent UI ile modern kurumsal arayüzler
+- Veri modeli tasarımı & SQL optimizasyonları
+- Mikroservis mimarisine giriş
+- Clean Architecture & Best Practices
 
-## 🎓 Hakkımda
-- 🎯 **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim.  
-- 💻 **Backend Development** ve **Microservices Architecture** alanlarına ilgi duyuyorum.  
-- 🚀 **.NET Core**, **Java Spring Boot** ve **Bulut Teknolojileri** üzerine projeler geliştiriyorum.  
-- 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
+## 📌 Öne Çıkan Özelliklerim
+- Temiz kod ve sürdürülebilir mimari yapıları benimserim.
+- Hem backend hem frontend geliştirebilirim (Full-Stack bakış açısı).
+- Kurumsal projelerde gerçek senaryolar üzerine çalıştım (dosya yönetimi, onay süreçleri, rol tabanlı sistemler).
+- Öğrendiklerimi projelerde uygulayarak geliştiririm.
 
----
+## 📬 Bana Ulaşın
+E-mail: ozandirek820@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ozancandirek-b12177266/
 
-## 🛠️ Tech Stack
+## 📊 GitHub İstatistiklerim
+![Stats](https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzancanDirek&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&hide_border=true)
 
-### 💼 Backend & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Databases & Cache
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=radical&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=radical&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🎯 Şu Anda Öğrendiklerim
-```csharp
-var currentFocus = new[] {
-    "Microservices Architecture",
-    "Advanced Database Design & Optimization",
-    ".NET 8 & Entity Framework Core",
-    "Java Spring Boot & Spring Cloud",
-    "Docker & Kubernetes",
-    "REST API & gRPC",
-    "Redis & Caching Strategies"
-};
-```
-
----
-
-## 📫 Bana Ulaşın
-
-<div align="center">
-
-📧 **Mail:** ozandirek820@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ozancandirek-b12177266/
-
-</div>
-
----
-
-💭 Rastgele Geliştirici Sözü
-<div align="center"> 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
-</div>
-
-📈 Profil Görüntülemeleri
-<div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=OzancanDirek&color=blueviolet&style=for-the-badge" /> 
-</div>
-
-<div align="center">
-
-“Kod, mizah gibidir. Açıklamak zorunda kalıyorsanız, kötüdür.” – Cory House  
-⭐️ **OzancanDirek'ten Sevgilerle**
-
-</div>
+## 💡 Geliştirici Sözü
+“Kod yazmak sadece bir iş değil; problemleri çözen, insanlara zaman kazandıran bir zanaattir.”
