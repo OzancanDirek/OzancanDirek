@@ -7,7 +7,7 @@
 
 ## 🚀 Vision & Overview
 
-I am **Ozancan Direk**, a Management Information Systems (MIS) student at Isik University with a strong passion for developing full-stack applications. I aim to bridge the gap between business needs and robust technical implementation, focusing on building **scalable, maintainable, and efficient** distributed systems.
+I aim to bridge the gap between business needs and robust technical implementation, focusing on building **scalable, maintainable, and efficient** distributed systems.
 
 * 🎯 **Focus Areas:** Back-end architecture, Microservices, API Design, and cloud-native solutions.
 * 📚 **Education:** Management Information Systems (MIS), Isik University.
