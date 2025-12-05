@@ -43,10 +43,10 @@ I aim to bridge the gap between business needs and robust technical implementati
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github" alt="Stars" />
+      <img src="https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github" alt="Followers" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github" alt="Followers" />
+      <img src="https://img.shields.io/github/last-commit/OzancanDirek/OzancanDirek?color=8A2BE2&style=for-the-badge" alt="Last Commit" />
     </td>
   </tr>
 </table>
