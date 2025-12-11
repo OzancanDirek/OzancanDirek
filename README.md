@@ -36,13 +36,19 @@ I aim to bridge the gap between business needs and robust technical implementati
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Stats | Languages |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozancandirek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancandirek&layout=compact&theme=tokyonight&hide_border=true) |
+![](https://img.shields.io/github/followers/OzancanDirek?style=for-the-badge&color=8A2BE2&logo=github&label=Followers)
+![](https://img.shields.io/badge/Total%20Repos-12-8A2BE2?style=for-the-badge&logo=github)
+![](https://komarev.com/ghpvc/?username=ozancandirek&style=for-the-badge&color=8A2BE2)
+
+</div>
+
+<div align="center">
+
+**"Building scalable systems, one commit at a time."** 🚀
 
 </div>
 
