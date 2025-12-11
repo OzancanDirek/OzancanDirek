@@ -40,16 +40,17 @@ I aim to bridge the gap between business needs and robust technical implementati
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github" alt="Followers" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozancandirek&theme=tokyo-night" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozancandirek&theme=tokyo-night)
+
+</div>
 
 </div>
 
