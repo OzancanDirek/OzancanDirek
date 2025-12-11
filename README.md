@@ -36,21 +36,26 @@ I aim to bridge the gap between business needs and robust technical implementati
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/OzancanDirek?color=8A2BE2&style=for-the-badge&logo=github)
+| Stats | Languages |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozancandirek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancandirek&layout=compact&theme=tokyonight&hide_border=true) |
 
 </div>
 
+## 💼 Skills & Technologies
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozancandirek&theme=tokyo-night)
-
-</div>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
