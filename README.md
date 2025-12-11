@@ -41,17 +41,9 @@ I aim to bridge the gap between business needs and robust technical implementati
 <div align="center">
 
 ![](https://img.shields.io/github/followers/OzancanDirek?style=for-the-badge&color=8A2BE2&logo=github&label=Followers)
-![](https://img.shields.io/badge/Total%20Repos-12-8A2BE2?style=for-the-badge&logo=github)
 ![](https://komarev.com/ghpvc/?username=ozancandirek&style=for-the-badge&color=8A2BE2)
 
 </div>
-
-<div align="center">
-
-**"Building scalable systems, one commit at a time."** 🚀
-
-</div>
-
 ## 💼 Skills & Technologies
 
 <div align="center">
