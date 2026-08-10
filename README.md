@@ -17,51 +17,77 @@ I aim to bridge the gap between business needs and robust technical implementati
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
 ---
-
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming & Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,spring,dotnet" />
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Development-2C3E50?style=flat-square" />
+</p>
 
 ### 🏗️ Architecture & Engineering
 
-`Clean Architecture` `Clean Code` `SOLID` `Design Patterns` `Domain-Driven Design`
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Code-34495E?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOLID-34495E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-34495E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain--Driven%20Design-34495E?style=flat-square" />
+</p>
 
-`Microservices` `Distributed Systems` `System Design` `RESTful APIs`
+<p>
+  <img src="https://img.shields.io/badge/Microservices-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/API%20Design-1F6FEB?style=flat-square" />
+</p>
 
 ### 🗄️ Databases & Data
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
 
-`JPA / Hibernate` `SQL` `Database Design` `Data Modeling`
+<p>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Design-59666C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-59666C?style=flat-square" />
+</p>
 
 ### ☁️ DevOps & Cloud-Native
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" />
+</p>
 
-`Docker` `Kubernetes` `CI/CD` `Git Flow` `Cloud-Native Development`
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git%20Flow-F05032?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud--Native-326CE5?style=flat-square" />
+</p>
 
 ### 🤖 AI & Modern Technologies
 
-![AI](https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat-square)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square" />
+  <img src="https://img.shields.io/badge/OCR-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Document%20Intelligence-6A5ACD?style=flat-square" />
+</p>
 
-`LLM Integration` `AI-Assisted Applications` `OCR` `Document Intelligence`
-
-`AI-powered Risk Assessment` `Local AI` `Intelligent Automation`
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Local%20AI-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Applications-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Intelligent%20Automation-412991?style=flat-square" />
+</p>
 
 ---
 
@@ -69,9 +95,9 @@ I aim to bridge the gap between business needs and robust technical implementati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=default&hide_border=false" height="170" />
 
 </div>
 
@@ -79,22 +105,15 @@ I aim to bridge the gap between business needs and robust technical implementati
 
 ## 🏆 Milestones & Goals
 
-My goals are focused on becoming a stronger software engineer and building production-oriented systems:
-
-- 🏗️ Deepen my understanding of **Clean Architecture, SOLID, and software design principles**.
-- 🔄 Strengthen my knowledge of **Microservices and Distributed Systems**.
-- ☁️ Gain hands-on experience with **Cloud-Native technologies and Kubernetes**.
-- 🤖 Explore practical **AI/LLM integration** in backend applications.
-- 🔐 Improve my knowledge of **application security and identity management**.
-- 🧪 Build stronger practices around **testing, code quality, and maintainability**.
-- 📊 Learn more about **observability, scalability, and production readiness**.
-- 🚀 Continue building and contributing to **real-world software projects**.
+| 🎯 Area | Goal |
+| --- | --- |
+| 🏗️ **Architecture** | Strengthen Clean Architecture, SOLID, DDD & System Design |
+| 🔄 **Distributed Systems** | Build deeper knowledge of Microservices & distributed architectures |
+| ☁️ **Cloud & DevOps** | Gain hands-on experience with Kubernetes, containers & CI/CD |
+| 🤖 **AI Engineering** | Build practical AI/LLM integrations into software systems |
+| 🔐 **Security** | Improve application security, authentication & authorization |
+| 🧪 **Software Quality** | Improve testing, maintainability & code quality |
+| 📊 **Production Engineering** | Learn observability, scalability & reliability |
+| 🌍 **Open Source** | Contribute to real-world and open-source projects |
 
 ---
-
-### 💭 Developer Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-*Connect with me or check out my work!*
