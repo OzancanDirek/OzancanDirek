@@ -22,31 +22,14 @@ I enjoy turning business requirements into well-structured technical solutions, 
 
 ## 🛠️ Technologies & Tools
 
-**Languages**
-
-`Java` · `C#` · `JavaScript`
-
-**Backend & APIs**
-
-`Spring Boot` · `.NET` · `.NET Core` · `REST APIs` · `Spring Security` · `JPA / Hibernate`
-
-**Architecture & Design**
-
-`Clean Architecture` · `Clean Code` · `SOLID` · `Design Patterns`  
-`Domain-Driven Design` · `Microservices` · `Distributed Systems` · `System Design`
-
-**Databases**
-
-`MySQL` · `PostgreSQL` · `SQL Server` · `SQL` · `Database Design`
-
-**DevOps & Cloud**
-
-`Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD` · `Git Flow`
-
-**AI & Intelligent Systems**
-
-`LLM Integration` · `Spring AI` · `OCR` · `Document Intelligence`  
-`AI-Assisted Applications` · `Local AI`
+| Domain | Tech Stack & Concepts |
+| :--- | :--- |
+| 🔤 **Languages** | `Java` • `C#` • `JavaScript` |
+| ⚙️ **Backend & APIs** | `Spring Boot` • `.NET Core` • `REST APIs` • `Spring Security` • `JPA / Hibernate` |
+| 🏗️ **Architecture & Design** | `Microservices` • `Distributed Systems` • `Domain-Driven Design (DDD)` • `Clean Architecture` • `SOLID` • `Design Patterns` • `System Design` |
+| 🗄️ **Databases** | `PostgreSQL` • `MySQL` • `SQL Server` • `Database Design` |
+| ☁️ **DevOps & Cloud** | `Docker` • `Kubernetes` • `GitHub Actions` • `CI/CD` • `Git Flow` |
+| 🤖 **AI & Intelligent Systems** | `Spring AI` • `LLM Integration` • `OCR` • `Document Intelligence` • `Local AI` • `AI-Assisted Apps` |
 
 ---
 
