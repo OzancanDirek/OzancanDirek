@@ -22,17 +22,25 @@ I enjoy turning business requirements into well-structured technical solutions, 
 
 ## 🛠️ Technologies & Tools
 
-🔹 **Languages** `Java` &nbsp;•&nbsp; `C#` &nbsp;•&nbsp; `JavaScript`
+##### 🔤 Languages
+* `Java` &nbsp;•&nbsp; `C#` &nbsp;•&nbsp; `JavaScript`
 
-🔹 **Backend & APIs** `Spring Boot` &nbsp;•&nbsp; `.NET Core` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Spring Security` &nbsp;•&nbsp; `JPA / Hibernate`
+##### ⚙️ Backend & APIs
+* `Spring Boot` &nbsp;•&nbsp; `.NET Core` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Spring Security` &nbsp;•&nbsp; `JPA / Hibernate`
 
-🔹 **Architecture & Design** `Microservices` &nbsp;•&nbsp; `Distributed Systems` &nbsp;•&nbsp; `Domain-Driven Design (DDD)` &nbsp;•&nbsp; `Clean Architecture` &nbsp;•&nbsp; `SOLID` &nbsp;•&nbsp; `Design Patterns` &nbsp;•&nbsp; `System Design`
+##### 🏗️ Architecture & Design
+* `Microservices` &nbsp;•&nbsp; `Distributed Systems` &nbsp;•&nbsp; `Domain-Driven Design (DDD)`
+* `Clean Architecture` &nbsp;•&nbsp; `SOLID` &nbsp;•&nbsp; `Design Patterns` &nbsp;•&nbsp; `System Design`
 
-🔹 **Databases** `PostgreSQL` &nbsp;•&nbsp; `MySQL` &nbsp;•&nbsp; `SQL Server` &nbsp;•&nbsp; `Database Design`
+##### 🗄️ Databases
+* `PostgreSQL` &nbsp;•&nbsp; `MySQL` &nbsp;•&nbsp; `SQL Server` &nbsp;•&nbsp; `Database Design`
 
-🔹 **DevOps & Cloud** `Docker` &nbsp;•&nbsp; `Kubernetes` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `CI/CD` &nbsp;•&nbsp; `Git Flow`
+##### ☁️ DevOps & Cloud
+* `Docker` &nbsp;•&nbsp; `Kubernetes` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `CI/CD` &nbsp;•&nbsp; `Git Flow`
 
-🔹 **AI & Intelligent Systems** `Spring AI` &nbsp;•&nbsp; `LLM Integration` &nbsp;•&nbsp; `OCR` &nbsp;•&nbsp; `Document Intelligence` &nbsp;•&nbsp; `Local AI` &nbsp;•&nbsp; `AI-Assisted Apps`
+##### 🤖 AI & Intelligent Systems
+* `Spring AI` &nbsp;•&nbsp; `LLM Integration` &nbsp;•&nbsp; `OCR` 
+* `Document Intelligence` &nbsp;•&nbsp; `Local AI` &nbsp;•&nbsp; `AI-Assisted Apps`
 
 ---
 
