@@ -7,113 +7,78 @@
 
 ## 🚀 Vision & Overview
 
-I aim to bridge the gap between business needs and robust technical implementation, focusing on building **scalable, maintainable, secure, and efficient software systems**.
+I am a Management Information Systems student focused on **backend engineering and software architecture**, with an interest in building scalable, maintainable, and reliable software systems.
 
-- 🎯 **Focus Areas:** Back-end engineering, Software Architecture, Clean Architecture, API Design, Distributed Systems, Cloud-Native Development, and AI Integration.
-- 🧠 **Engineering Interests:** Clean Code, SOLID principles, Design Patterns, Microservices, Domain-Driven Design, System Design, and scalable application development.
-- 🤖 **Emerging Technologies:** AI/LLM integration, AI-assisted applications, intelligent document processing, and modern cloud-native architectures.
-- 💻 **Languages & Ecosystems:** Java & Spring | C# & .NET Core | JavaScript
-- 📚 **Education:** Management Information Systems (MIS), Isik University.
+I enjoy turning business requirements into well-structured technical solutions, with a particular interest in **backend development, API design, distributed systems, clean architecture, cloud-native technologies, and AI-assisted applications**.
+
+- 🎯 **Focus:** Backend Engineering, Software Architecture, Distributed Systems & API Design
+- 🏗️ **Engineering:** Clean Architecture, Clean Code, SOLID, Design Patterns & Domain-Driven Design
+- ☁️ **Modern Development:** Microservices, Cloud-Native Applications, Containers & CI/CD
+- 🤖 **Emerging Technologies:** AI/LLM Integration, Intelligent Automation & Document Intelligence
+- 💻 **Languages:** Java, C#, JavaScript
+- 📚 **Education:** Management Information Systems (MIS), Isik University
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
 ---
+
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming & Backend
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,spring,dotnet" />
-</p>
+`Java` · `C#` · `JavaScript`
 
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Development-2C3E50?style=flat-square" />
-</p>
+**Backend**
 
-### 🏗️ Architecture & Engineering
+`Spring Boot` · `.NET` · `.NET Core` · `REST APIs` · `Spring Security` · `JPA / Hibernate`
 
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clean%20Code-34495E?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOLID-34495E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-34495E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain--Driven%20Design-34495E?style=flat-square" />
-</p>
+**Architecture & Design**
 
-<p>
-  <img src="https://img.shields.io/badge/Microservices-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Design-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/API%20Design-1F6FEB?style=flat-square" />
-</p>
+`Clean Architecture` · `Clean Code` · `SOLID` · `Design Patterns`  
+`Domain-Driven Design` · `Microservices` · `Distributed Systems` · `System Design`
 
-### 🗄️ Databases & Data
+**Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
+`MySQL` · `PostgreSQL` · `SQL Server` · `SQL` · `Database Design`
 
-<p>
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database%20Design-59666C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-59666C?style=flat-square" />
-</p>
+**DevOps & Cloud**
 
-### ☁️ DevOps & Cloud-Native
+`Docker` · `GitHub Actions` · `CI/CD` · `Git Flow`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git" />
-</p>
+**AI & Intelligent Systems**
 
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git%20Flow-F05032?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud--Native-326CE5?style=flat-square" />
-</p>
+`LLM Integration` · `Spring AI` · `OCR` · `Document Intelligence`  
+`AI-Assisted Applications` · `Local AI`
 
-### 🤖 AI & Modern Technologies
+---
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-6A5ACD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Document%20Intelligence-6A5ACD?style=flat-square" />
-</p>
+## 📊 GitHub Activity
 
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Local%20AI-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI--Assisted%20Applications-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Intelligent%20Automation-412991?style=flat-square" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&hide_border=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&hide_border=true&theme=default" height="165" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Engineering Focus
 
-<div align="center">
+Rather than focusing only on individual technologies, I am interested in understanding how modern software systems are designed and evolved.
 
-<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=default&hide_border=false" height="170" />
-
-</div>
-
----
-
-## 🏆 Milestones & Goals
-
-| 🎯 Area | Goal |
-| --- | --- |
-| 🏗️ **Architecture** | Strengthen Clean Architecture, SOLID, DDD & System Design |
-| 🔄 **Distributed Systems** | Build deeper knowledge of Microservices & distributed architectures |
-| ☁️ **Cloud & DevOps** | Gain hands-on experience with Kubernetes, containers & CI/CD |
-| 🤖 **AI Engineering** | Build practical AI/LLM integrations into software systems |
-| 🔐 **Security** | Improve application security, authentication & authorization |
-| 🧪 **Software Quality** | Improve testing, maintainability & code quality |
-| 📊 **Production Engineering** | Learn observability, scalability & reliability |
-| 🌍 **Open Source** | Contribute to real-world and open-source projects |
+- **Architecture** — Designing maintainable and loosely coupled systems
+- **Backend Engineering** — Building secure, reliable and well-designed APIs
+- **Distributed Systems** — Understanding service communication, scalability and resilience
+- **Cloud-Native Development** — Containers, orchestration and modern deployment practices
+- **AI Integration** — Applying AI and LLM capabilities to real software systems
+- **Software Quality** — Testing, clean code, maintainability and observability
 
 ---
+
+## 📌 What I Value
+
+```text
+Readable Code        →  Code should be easy to understand
+Good Architecture    →  Systems should be easy to change
+Security              →  Security should be considered by design
+Testing               →  Confidence should come from automation
+Simplicity             →  Avoid complexity unless it provides value
+Continuous Learning   →  Keep improving as technology evolves
