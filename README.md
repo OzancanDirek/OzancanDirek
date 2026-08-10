@@ -12,7 +12,7 @@ I aim to bridge the gap between business needs and robust technical implementati
 - 🎯 **Focus Areas:** Back-end engineering, Software Architecture, Clean Architecture, API Design, Distributed Systems, Cloud-Native Development, and AI Integration.
 - 🧠 **Engineering Interests:** Clean Code, SOLID principles, Design Patterns, Microservices, Domain-Driven Design, System Design, and scalable application development.
 - 🤖 **Emerging Technologies:** AI/LLM integration, AI-assisted applications, intelligent document processing, and modern cloud-native architectures.
-- 💻 **Languages & Ecosystems:** Java / Spring, C# / .NET, Python, JavaScript.
+- 💻 **Languages & Ecosystems:** Java & Spring | C# & .NET Core | JavaScript
 - 📚 **Education:** Management Information Systems (MIS), Isik University.
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
