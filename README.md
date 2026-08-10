@@ -5,6 +5,7 @@
 </div>
 
 
+
 ## 🚀 Vision & Overview
 
 I am a Management Information Systems student focused on **backend engineering and software architecture**, with an interest in building **scalable, maintainable, secure, and reliable software systems**.
@@ -23,24 +24,41 @@ I enjoy turning business requirements into well-structured technical solutions, 
 ## 🛠️ Technologies & Tools
 
 ### 💻 Languages
+
 `Java` · `C#` · `JavaScript`
 
 ### ⚙️ Backend
+
 `Spring Boot` · `.NET Core` · `Spring Security` · `JPA / Hibernate` · `REST APIs`
 
 ### 🏗️ Architecture
+
 `Clean Architecture` · `SOLID` · `Design Patterns` · `DDD`  
 `Microservices` · `Distributed Systems` · `System Design`
 
 ### 🗄️ Data
+
 `PostgreSQL` · `MySQL` · `SQL Server` · `Database Design`
 
 ### ☁️ DevOps & Cloud
+
 `Docker` · `GitHub Actions` · `CI/CD` · `Git Flow`
 
 ### 🤖 AI
-`Spring AI` · `LLM Integration` · `OCR` · `Document Intelligence`  
-`Local AI` · `AI-Assisted Applications`
+
+`Spring AI` · `LLM Integration` · `OCR`  
+`Document Intelligence` · `Local AI` · `AI-Assisted Applications`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OzancanDirek&theme=github_dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=C9D1D9&bg_color=0D1117" width="60%" />
+
+</div>
+
 ---
 
 ## 🏆 Milestones & Goals
