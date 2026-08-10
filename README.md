@@ -36,7 +36,7 @@ I enjoy turning business requirements into well-structured technical solutions, 
 `PostgreSQL` · `MySQL` · `SQL Server` · `Database Design`
 
 ### ☁️ DevOps & Cloud
-`Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD` · `Git Flow`
+`Docker` · `GitHub Actions` · `CI/CD` · `Git Flow`
 
 ### 🤖 AI
 `Spring AI` · `LLM Integration` · `OCR` · `Document Intelligence`  
