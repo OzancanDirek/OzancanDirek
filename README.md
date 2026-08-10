@@ -7,34 +7,62 @@
 
 ## 🚀 Vision & Overview
 
-I aim to bridge the gap between business needs and robust technical implementation, focusing on building **scalable, maintainable, and efficient** distributed systems.
+I aim to bridge the gap between business needs and robust technical implementation, focusing on building **scalable, maintainable, secure, and efficient software systems**.
 
-* 🎯 **Focus Areas:** Back-end architecture, Microservices, API Design, and cloud-native solutions.
-* 📚 **Education:** Management Information Systems (MIS), Isik University.
-* 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
+- 🎯 **Focus Areas:** Back-end engineering, Software Architecture, Clean Architecture, API Design, Distributed Systems, Cloud-Native Development, and AI Integration.
+- 🧠 **Engineering Interests:** Clean Code, SOLID principles, Design Patterns, Microservices, Domain-Driven Design, System Design, and scalable application development.
+- 🤖 **Emerging Technologies:** AI/LLM integration, AI-assisted applications, intelligent document processing, and modern cloud-native architectures.
+- 💻 **Languages & Ecosystems:** Java / Spring, C# / .NET, Python, JavaScript.
+- 📚 **Education:** Management Information Systems (MIS), Isik University.
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+### 💻 Programming & Backend
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-</div>
+### 🏗️ Architecture & Engineering
+
+`Clean Architecture` `Clean Code` `SOLID` `Design Patterns` `Domain-Driven Design`
+
+`Microservices` `Distributed Systems` `System Design` `RESTful APIs`
+
+### 🗄️ Databases & Data
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+`JPA / Hibernate` `SQL` `Database Design` `Data Modeling`
+
+### ☁️ DevOps & Cloud-Native
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+`Docker` `Kubernetes` `CI/CD` `Git Flow` `Cloud-Native Development`
+
+### 🤖 AI & Modern Technologies
+
+![AI](https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=flat-square)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+`LLM Integration` `AI-Assisted Applications` `OCR` `Document Intelligence`
+
+`AI-powered Risk Assessment` `Local AI` `Intelligent Automation`
 
 ---
 
@@ -42,8 +70,9 @@ I aim to bridge the gap between business needs and robust technical implementati
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/OzancanDirek?style=for-the-badge&color=8A2BE2&logo=github&label=Followers)
-![](https://komarev.com/ghpvc/?username=ozancandirek&style=for-the-badge&color=8A2BE2)
+<img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
 </div>
 
@@ -51,31 +80,22 @@ I aim to bridge the gap between business needs and robust technical implementati
 
 ## 🏆 Milestones & Goals
 
-My current goals are focused on structured learning and project delivery:
+My goals are focused on becoming a stronger software engineer and building production-oriented systems:
 
-* ✅ Complete the **.NET Core Microservices** project structure.
-* ⏳ Start a new project using **Spring Boot & Spring Cloud**.
-* 🚀 Gain hands-on experience with **Kubernetes** deployment.
-* 📘 Obtain a **cloud certification** (e.g., Azure or AWS Fundamentals).
-* 🎯 Achieve the highest possible **GitHub contribution streak** this year.
+- 🏗️ Deepen my understanding of **Clean Architecture, SOLID, and software design principles**.
+- 🔄 Strengthen my knowledge of **Microservices and Distributed Systems**.
+- ☁️ Gain hands-on experience with **Cloud-Native technologies and Kubernetes**.
+- 🤖 Explore practical **AI/LLM integration** in backend applications.
+- 🔐 Improve my knowledge of **application security and identity management**.
+- 🧪 Build stronger practices around **testing, code quality, and maintainability**.
+- 📊 Learn more about **observability, scalability, and production readiness**.
+- 🚀 Continue building and contributing to **real-world software projects**.
 
 ---
 
-<div align="center">
-    
 ### 💭 Developer Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
-</div>
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
----
-
-<div align="center">
-    
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-<br>
-
-_Connect with me or check out my work!_
-
-</div>
+*Connect with me or check out my work!*
