@@ -7,16 +7,15 @@
 
 ## 🚀 Vision & Overview
 
-I am a Management Information Systems student focused on **backend engineering and software architecture**, with an interest in building scalable, maintainable, and reliable software systems.
+I am a Management Information Systems student focused on **backend engineering and software architecture**, with an interest in building **scalable, maintainable, secure, and reliable software systems**.
 
-I enjoy turning business requirements into well-structured technical solutions, with a particular interest in **backend development, API design, distributed systems, clean architecture, cloud-native technologies, and AI-assisted applications**.
+I enjoy turning business requirements into well-structured technical solutions, while continuously improving my understanding of **software architecture, distributed systems, cloud-native development, and AI-assisted applications**.
 
-- 🎯 **Focus:** Backend Engineering, Software Architecture, Distributed Systems & API Design
-- 🏗️ **Engineering:** Clean Architecture, Clean Code, SOLID, Design Patterns & Domain-Driven Design
-- ☁️ **Modern Development:** Microservices, Cloud-Native Applications, Containers & CI/CD
-- 🤖 **Emerging Technologies:** AI/LLM Integration, Intelligent Automation & Document Intelligence
-- 💻 **Languages:** Java, C#, JavaScript
-- 📚 **Education:** Management Information Systems (MIS), Isik University
+- 🎯 **Focus Areas:** Backend Engineering, Software Architecture, API Design, Distributed Systems, and Cloud-Native Development.
+- 🏗️ **Engineering Principles:** Clean Architecture, Clean Code, SOLID, Design Patterns, and Domain-Driven Design.
+- 🤖 **Emerging Technologies:** AI/LLM Integration, Intelligent Automation, and Document Intelligence.
+- 💻 **Languages & Ecosystems:** Java / Spring, C# / .NET, JavaScript.
+- 📚 **Education:** Management Information Systems (MIS), Isik University.
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ozancandirek-b12177266/) | [ozandirek820@gmail.com](mailto:ozandirek820@gmail.com)
 
 ---
@@ -27,7 +26,7 @@ I enjoy turning business requirements into well-structured technical solutions, 
 
 `Java` · `C#` · `JavaScript`
 
-**Backend**
+**Backend & APIs**
 
 `Spring Boot` · `.NET` · `.NET Core` · `REST APIs` · `Spring Security` · `JPA / Hibernate`
 
@@ -42,7 +41,7 @@ I enjoy turning business requirements into well-structured technical solutions, 
 
 **DevOps & Cloud**
 
-`Docker` · `GitHub Actions` · `CI/CD` · `Git Flow`
+`Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD` · `Git Flow`
 
 **AI & Intelligent Systems**
 
@@ -51,34 +50,25 @@ I enjoy turning business requirements into well-structured technical solutions, 
 
 ---
 
-## 📊 GitHub Activity
+## 🏆 Milestones & Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzancanDirek&show_icons=true&hide_border=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzancanDirek&layout=compact&hide_border=true&theme=default" height="165" />
-</p>
+My current goals are focused on becoming a stronger software engineer and building production-oriented systems:
 
----
-
-## 🎯 Engineering Focus
-
-Rather than focusing only on individual technologies, I am interested in understanding how modern software systems are designed and evolved.
-
-- **Architecture** — Designing maintainable and loosely coupled systems
-- **Backend Engineering** — Building secure, reliable and well-designed APIs
-- **Distributed Systems** — Understanding service communication, scalability and resilience
-- **Cloud-Native Development** — Containers, orchestration and modern deployment practices
-- **AI Integration** — Applying AI and LLM capabilities to real software systems
-- **Software Quality** — Testing, clean code, maintainability and observability
+- 🏗️ Deepen my understanding of **software architecture, Clean Architecture, and system design**.
+- 🔄 Strengthen my knowledge of **Microservices and Distributed Systems**.
+- ☁️ Gain hands-on experience with **Cloud-Native technologies and Kubernetes**.
+- 🤖 Explore practical **AI/LLM integration** in backend applications.
+- 🔐 Improve my knowledge of **application security and identity management**.
+- 🧪 Strengthen my practices around **testing, code quality, and maintainability**.
+- 📊 Learn more about **observability, scalability, and production readiness**.
+- 🌍 Contribute to **real-world and open-source projects**.
 
 ---
 
-## 📌 What I Value
+### 💭 Developer Quote
 
-```text
-Readable Code        →  Code should be easy to understand
-Good Architecture    →  Systems should be easy to change
-Security              →  Security should be considered by design
-Testing               →  Confidence should come from automation
-Simplicity             →  Avoid complexity unless it provides value
-Continuous Learning   →  Keep improving as technology evolves
+> **"Code is like humor. When you have to explain it, it's bad."**
+>
+> — Cory House
+
+*Connect with me or check out my work!*
